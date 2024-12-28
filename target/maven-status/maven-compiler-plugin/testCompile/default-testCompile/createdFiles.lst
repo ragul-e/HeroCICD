@@ -1,0 +1,4 @@
+com\practice\pageobjects\LoginPage.class
+com\practice\testcases\LoginTest.class
+com\practice\Base\Base.class
+com\practice\pageobjects\SecurePage.class

@@ -1,0 +1,4 @@
+# Created at 2024-12-25T22:05:26.032
+Boot Manifest-JAR contains absolute paths in classpath 'D:\DataStructureAlgo\com.practice.com\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
